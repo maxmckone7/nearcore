@@ -1,0 +1,20 @@
+[
+   {
+      "stateMutability" : "nonpayable",
+      "inputs" : [],
+      "type" : "constructor"
+   },
+   {
+      "name" : "test_ecrecover",
+      "inputs" : [],
+      "type" : "function",
+      "stateMutability" : "pure",
+      "outputs" : [
+         {
+            "internalType" : "bool",
+            "name" : "",
+            "type" : "bool"
+         }
+      ]
+   }
+]
