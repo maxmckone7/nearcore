@@ -11,7 +11,8 @@
 
 ## Reference implementation of NEAR Protocol
 
-[![Build Status][ci-badge-master]][ci-url] 
+[![Build Status][ci-badge-master]][ci-url] [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fnearcore.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fnearcore?ref=badge_shield)
+
 ![Stable Status][stable-release]
 ![Prerelease Status][prerelease]
 [![codecov][codecov-badge]][codecov-url]
@@ -81,3 +82,7 @@ For the high-level roadmap, checkout [Chain&Middleware's roadmap](https://app.ze
 
 The workflow and details of setup to contribute are described in [CONTRIBUTING.md](CONTRIBUTING.md), and security policy is described in [SECURITY.md](SECURITY.md).
 To propose new protocol change or standard use [Specification & Standards repository](https://github.com/nearprotocol/NEPs). 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fnearcore.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fnearcore?ref=badge_large)
